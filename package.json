@@ -17,6 +17,12 @@
     "gulp-sass": "^4.0.2",
     "gulp-scss": "^1.4.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "npm": "^6.13.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "install gulp-cli -g"
+  },
   "description": ""
 }
